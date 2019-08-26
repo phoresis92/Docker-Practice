@@ -6,7 +6,7 @@ cd /home
 git clone https://github.com/phoresis92/Docker-Practice/
 cd Docker-Practice
 </pre>
-###Run
+### Run
 <pre>
 # Login For private Docker repository
 docker login
